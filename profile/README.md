@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+Welcome to VyperCore! You'll find our public work here. For more information, please visit [our website](www.vypercore.com)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you work for VyperCore, you should have been added to the VyperCore organization in GitHub. If this has not happened, please have a chat with your line manager.
